@@ -683,13 +683,17 @@
     padding: 25px 20px;
   }
 } 
-/* .sidebar-user-name{
+.sidebar-user-name{
   overflow: hidden;
 }
 .sidebar-user-email{
   overflow: hidden !important;
 }
 .sidebar-content{
+  z-index: 2000 !important;
   overflow: hidden;
   display: none;
-} */
+}
+.sidebar-overlay{
+  z-index: 200 !important;
+}
