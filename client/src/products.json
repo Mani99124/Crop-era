@@ -1,0 +1,994 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hybrid Tomato Seeds",
+      "category": "Seeds",
+      "price": 17737,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1592924625601-63601e1bca95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxIeWJyaWQlMjBUb21hdG8lMjBTZWVkc3xlbnwwfHx8fDE3NTEwOTMxOTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "High quality and reliable for modern agriculture."
+    },
+    {
+      "id": 2,
+      "name": "DAP Fertilizer (50kg)",
+      "category": "Fertilizers",
+      "price": 26563,
+      "stock": 21,
+      "image": "https://images.unsplash.com/photo-1656850815262-2eed4ed82625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxEQVAlMjBGZXJ0aWxpemVyJTIwJTI4NTBrZyUyOXxlbnwwfHx8fDE3NTEwOTMxOTN8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Boosts yield and improves crop health."
+    },
+    {
+      "id": 3,
+      "name": "FMC Coragen",
+      "category": "Pesticides",
+      "price": 29119,
+      "stock": 37,
+      "image": "https://images.unsplash.com/photo-1704032489484-09e46665cd92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxGTUMlMjBDb3JhZ2VufGVufDB8fHx8MTc1MTA5MzE5NXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Eco-friendly and safe for the environment."
+    },
+    {
+      "id": 4,
+      "name": "Power Tiller",
+      "category": "Technologies",
+      "price": 41175,
+      "stock": 48,
+      "image": "https://images.unsplash.com/photo-1679128719010-aaa99859ad97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxQb3dlciUyMFRpbGxlcnxlbnwwfHx8fDE3NTEwOTMxOTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Tested and recommended by experts."
+    },
+    {
+      "id": 5,
+      "name": "Shovel",
+      "category": "Tools",
+      "price": 24042,
+      "stock": 29,
+      "image": "https://images.unsplash.com/photo-1647978403048-2e5099133ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxTaG92ZWx8ZW58MHx8fHwxNzUxMDkzMjAxfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Suitable for all seasons and soil types."
+    },
+    {
+      "id": 6,
+      "name": "Pomegranate",
+      "category": "Fruits",
+      "price": 15521,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1574709755254-fcd942d09d5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxQb21lZ3JhbmF0ZXxlbnwwfHx8fDE3NTEwOTMyMDN8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Easy to use and highly effective."
+    },
+    {
+      "id": 7,
+      "name": "Spinach",
+      "category": "Vegetables",
+      "price": 39608,
+      "stock": 41,
+      "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxTcGluYWNofGVufDB8fHx8MTc1MTA5MzIwNXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Ensures better growth and protection."
+    },
+    {
+      "id": 8,
+      "name": "Sprayer Machine",
+      "category": "Equipment",
+      "price": 19001,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1596289414984-7b7ae58fbd3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxTcHJheWVyJTIwTWFjaGluZXxlbnwwfHx8fDE3NTEwOTMyMDd8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Trusted by thousands of farmers."
+    },
+    {
+      "id": 9,
+      "name": "Hydroponic Kit",
+      "category": "Irrigation",
+      "price": 35372,
+      "stock": 4,
+      "image": "https://images.unsplash.com/photo-1698890785403-a0b1f9b40ca3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxIeWRyb3BvbmljJTIwS2l0fGVufDB8fHx8MTc1MTA5MzIwOXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Best for sustainable farming."
+    },
+    {
+      "id": 10,
+      "name": "Organic Soil Conditioner",
+      "category": "Organics",
+      "price": 33511,
+      "stock": 2,
+      "image": "https://images.unsplash.com/photo-1619559349351-a230e67579b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxPcmdhbmljJTIwU29pbCUyMENvbmRpdGlvbmVyfGVufDB8fHx8MTc1MTA5MzIxMnww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Premium product for your farm needs."
+    },
+    {
+      "id": 11,
+      "name": "Apple",
+      "category": "Fruit",
+      "price": 120,
+      "image": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&w=400",
+      "description": "Fresh and juicy apples.",
+      "unit": "kg",
+      "stock": 35
+    },
+    {
+      "id": 12,
+      "name": "Banana",
+      "category": "Fruit",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?_gl=1*hpucjt*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODQ3MzUkajUwJGwwJGgw",
+      "description": "Sweet ripe bananas.",
+      "unit": "dozen",
+      "stock": 26
+    },
+    {
+      "id": 13,
+      "name": "Mango",
+      "category": "Fruit",
+      "price": 150,
+      "image": "https://images.pexels.com/photos/2294471/pexels-photo-2294471.jpeg?auto=compress&w=400",
+      "description": "Delicious mangoes.",
+      "unit": "kg",
+      "stock": 26
+    },
+    {
+      "id": 14,
+      "name": "Orange",
+      "category": "Fruit",
+      "price": 90,
+      "image": "https://images.pexels.com/photos/42059/citrus-diet-food-fresh-42059.jpeg?auto=compress&w=400",
+      "description": "Citrus oranges packed with vitamin C.",
+      "unit": "kg",
+      "stock": 24
+    },
+    {
+      "id": 15,
+      "name": "Grapes",
+      "category": "Fruit",
+      "price": 110,
+      "image": "https://images.pexels.com/photos/60021/grapes-wine-fruit-vines-60021.jpeg?_gl=1*1m6b2cd*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODQ5MjYkajI1JGwwJGgw",
+      "description": "Fresh green grapes.",
+      "unit": "kg",
+      "stock": 5
+    },
+    {
+      "id": 16,
+      "name": "Pineapple",
+      "category": "Fruit",
+      "price": 80,
+      "image": "https://images.pexels.com/photos/6157052/pexels-photo-6157052.jpeg",
+      "description": "Tropical pineapples.",
+      "unit": "piece",
+      "stock": 50
+    },
+    {
+      "id": 17,
+      "name": "Papaya",
+      "category": "Fruit",
+      "price": 70,
+      "image": "https://images.pexels.com/photos/5507722/pexels-photo-5507722.jpeg?_gl=1*15aw8yk*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODUxMTQkajQ3JGwwJGgw",
+      "description": "Nutritious papayas.",
+      "unit": "kg",
+      "stock": 39
+    },
+    {
+      "id": 18,
+      "name": "Watermelon",
+      "category": "Fruit",
+      "price": 50,
+      "image": "https://images.pexels.com/photos/1313267/pexels-photo-1313267.jpeg?_gl=1*1hybr67*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODUxNjkkajU1JGwwJGgw",
+      "description": "Refreshing watermelons.",
+      "unit": "piece",
+      "stock": 22
+    },
+    {
+      "id": 19,
+      "name": "Strawberry",
+      "category": "Fruit",
+      "price": 200,
+      "image": "https://images.pexels.com/photos/46174/strawberries-berries-fruit-freshness-46174.jpeg?auto=compress&w=400",
+      "description": "Sweet strawberries.",
+      "unit": "box",
+      "stock": 45
+    },
+    {
+      "id": 20,
+      "name": "Blueberry",
+      "category": "Fruit",
+      "price": 250,
+      "image": "https://images.pexels.com/photos/1395958/pexels-photo-1395958.jpeg?_gl=1*vsntjf*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODUzMDckajUwJGwwJGgw",
+      "description": "Fresh blueberries.",
+      "unit": "box",
+      "stock": 43
+    },
+    {
+      "id": 21,
+      "name": "Wheat",
+      "category": "Crop",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/32688884/pexels-photo-32688884.jpeg?_gl=1*3al1f3*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODUzODkkajI5JGwwJGgw",
+      "description": "Premium wheat grains.",
+      "unit": "kg",
+      "stock": 42
+    },
+    {
+      "id": 22,
+      "name": "Rice",
+      "category": "Crop",
+      "price": 50,
+      "image": "https://images.pexels.com/photos/4187615/pexels-photo-4187615.jpeg?_gl=1*mpcapz*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODU0NDQkajM1JGwwJGgw",
+      "description": "High-quality rice.",
+      "unit": "kg",
+      "stock": 29
+    },
+    {
+      "id": 23,
+      "name": "Corn",
+      "category": "Crop",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/603030/pexels-photo-603030.jpeg?_gl=1*4am5yj*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODU4NjQkajUyJGwwJGgw",
+      "description": "Fresh corn cobs.",
+      "unit": "kg",
+      "stock": 40
+    },
+    {
+      "id": 24,
+      "name": "Barley",
+      "category": "Crop",
+      "price": 45,
+      "image": "https://images.pexels.com/photos/1600139/pexels-photo-1600139.jpeg?_gl=1*1alk7a*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODU5MDckajkkbDAkaDA.",
+      "description": "Organic barley grains.",
+      "unit": "kg",
+      "stock": 10
+    },
+    {
+      "id": 25,
+      "name": "Oats",
+      "category": "Crop",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/3639181/pexels-photo-3639181.jpeg?_gl=1*padl7*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODU5NTAkajQ0JGwwJGgw",
+      "description": "Healthy oats.",
+      "unit": "kg",
+      "stock": 13
+    },
+    {
+      "id": 26,
+      "name": "Sunflower Seeds",
+      "category": "Seed",
+      "price": 90,
+      "image": "https://images.pexels.com/photos/691175/pexels-photo-691175.jpeg?_gl=1*15c56ew*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODU5OTAkajQkbDAkaDA.",
+      "description": "Nutritious sunflower seeds.",
+      "unit": "packet",
+      "stock": 9
+    },
+    {
+      "id": 27,
+      "name": "Pumpkin Seeds",
+      "category": "Seed",
+      "price": 100,
+      "image": "https://images.pexels.com/photos/1080071/pexels-photo-1080071.jpeg?_gl=1*6ogr3u*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODYwMjkkajQ2JGwwJGgw",
+      "description": "Healthy pumpkin seeds.",
+      "unit": "packet",
+      "stock": 3
+    },
+    {
+      "id": 28,
+      "name": "Chia Seeds",
+      "category": "Seed",
+      "price": 110,
+      "image": "https://images.pexels.com/photos/691162/pexels-photo-691162.jpeg?_gl=1*c1p1j6*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODYwNzckajU5JGwwJGgw",
+      "description": "Organic chia seeds.",
+      "unit": "packet",
+      "stock": 34
+    },
+    {
+      "id": 29,
+      "name": "Drip Irrigation Kit",
+      "category": "Technology",
+      "price": 1200,
+      "image": "https://media.istockphoto.com/id/1364028866/photo/system-for-drip-irrigation-garden-and-garden.jpg?s=2048x2048&w=is&k=20&c=PX_4Cg5XtXBVGiczwnsDupc7DdEhqQFrLBAv2pj4ujg=",
+      "description": "Efficient drip irrigation system for farms.",
+      "unit": "kit",
+      "stock": 33
+    },
+    {
+      "id": 30,
+      "name": "Soil Moisture Sensor",
+      "category": "Technology",
+      "price": 800,
+      "image": "https://images.pexels.com/photos/4750269/pexels-photo-4750269.jpeg?_gl=1*1qvq0zg*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODY0MjkkajQ1JGwwJGgw",
+      "description": "Advanced soil moisture sensor for precision farming.",
+      "unit": "piece",
+      "stock": 18
+    },
+    {
+      "id": 31,
+      "name": "Pear",
+      "category": "Fruit",
+      "price": 130,
+      "image": "https://images.pexels.com/photos/2095571/pexels-photo-2095571.jpeg?_gl=1*7g2qhp*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODcxMTgkajUzJGwwJGgw",
+      "description": "Crisp and sweet pears.",
+      "unit": "kg",
+      "stock": 47
+    },
+    {
+      "id": 32,
+      "name": "Guava",
+      "category": "Fruit",
+      "price": 70,
+      "image": "https://images.pexels.com/photos/5945840/pexels-photo-5945840.jpeg?_gl=1*1mrhzcb*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODcxNTEkajIwJGwwJGgw",
+      "description": "Tropical guavas.",
+      "unit": "kg",
+      "stock": 44
+    },
+    {
+      "id": 33,
+      "name": "Peach",
+      "category": "Fruit",
+      "price": 140,
+      "image": "https://images.pexels.com/photos/1268122/pexels-photo-1268122.jpeg?_gl=1*19pc1vn*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODcyMDQkajUxJGwwJGgw",
+      "description": "Juicy peaches.",
+      "unit": "kg",
+      "stock": 35
+    },
+    {
+      "id": 34,
+      "name": "Plum",
+      "category": "Fruit",
+      "price": 120,
+      "image": "https://images.pexels.com/photos/248440/pexels-photo-248440.jpeg?_gl=1*ims7u0*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwODk3MjckajQ2JGwwJGgw",
+      "description": "Fresh plums.",
+      "unit": "kg",
+      "stock": 20
+    },
+    {
+      "id": 35,
+      "name": "Kiwi",
+      "category": "Fruit",
+      "price": 180,
+      "image": "https://images.pexels.com/photos/867349/pexels-photo-867349.jpeg?_gl=1*171n5m9*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwODk3NjEkajEyJGwwJGgw",
+      "description": "Tangy kiwis.",
+      "unit": "box",
+      "stock": 33
+    },
+    {
+      "id": 36,
+      "name": "Carrot",
+      "category": "Crop",
+      "price": 50,
+      "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?_gl=1*fydmse*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwODk4NjQkajU1JGwwJGgw",
+      "description": "Crunchy carrots.",
+      "unit": "kg",
+      "stock": 9
+    },
+    {
+      "id": 37,
+      "name": "Potato",
+      "category": "Crop",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/2286776/pexels-photo-2286776.jpeg?_gl=1*1rbbi8x*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwODk4OTYkajIzJGwwJGgw",
+      "description": "Fresh potatoes.",
+      "unit": "kg",
+      "stock": 24
+    },
+    {
+      "id": 38,
+      "name": "Tomato Seeds",
+      "category": "Seed",
+      "price": 60,
+      "image": "https://media.istockphoto.com/id/1219153137/photo/tomato-seedlings.jpg?s=2048x2048&w=is&k=20&c=_4CHNEUesx1ua0FD-gZHwLJnhws9bLlnvryjxXXfi2c=",
+      "description": "High-germination tomato seeds.",
+      "unit": "packet",
+      "stock": 4
+    },
+    {
+      "id": 39,
+      "name": "Weather Station",
+      "category": "Technology",
+      "price": 2500,
+      "image": "https://images.pexels.com/photos/132648/pexels-photo-132648.jpeg?_gl=1*zwqkz2*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTAwMDgkajQ4JGwwJGgw",
+      "description": "Smart weather station for farms.",
+      "unit": "kit",
+      "stock": 29
+    },
+    {
+      "id": 40,
+      "name": "Lettuce",
+      "category": "Crop",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/1352199/pexels-photo-1352199.jpeg?_gl=1*wrzz9n*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTAwNDAkajE2JGwwJGgw",
+      "description": "Fresh lettuce leaves.",
+      "unit": "kg",
+      "stock": 33
+    },
+    {
+      "id": 41,
+      "name": "Cabbage",
+      "category": "Crop",
+      "price": 55,
+      "image": "https://images.pexels.com/photos/257259/pexels-photo-257259.jpeg?_gl=1*ytdi5e*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTAwNjckajUzJGwwJGgw",
+      "description": "Green cabbage heads.",
+      "unit": "kg",
+      "stock": 16
+    },
+    {
+      "id": 42,
+      "name": "Broccoli",
+      "category": "Crop",
+      "price": 90,
+      "image": "https://media.istockphoto.com/id/518951178/photo/fresh-raw-green-broccoli-in-bowl.jpg?s=1024x1024&w=is&k=20&c=ULyI3g5KG-9GWyeLD7S5xCCCKGI2hdssn0HuQX4k4IQ=",
+      "description": "Nutritious broccoli.",
+      "unit": "kg",
+      "stock": 41
+    },
+    {
+      "id": 43,
+      "name": "Cauliflower",
+      "category": "Crop",
+      "price": 80,
+      "image": "https://images.pexels.com/photos/1227806/pexels-photo-1227806.jpeg?_gl=1*1tw4gl1*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTAxOTkkajU1JGwwJGgw",
+      "description": "Fresh cauliflower.",
+      "unit": "kg",
+      "stock": 49
+    },
+    {
+      "id": 44,
+      "name": "Radish",
+      "category": "Crop",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/244393/pexels-photo-244393.jpeg?_gl=1*yz4pv2*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTAyODYkajUwJGwwJGgw",
+      "description": "Crisp radishes.",
+      "unit": "kg",
+      "stock": 46
+    },
+    {
+      "id": 45,
+      "name": "Onion",
+      "category": "Crop",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/144206/pexels-photo-144206.jpeg?_gl=1*jp5la7*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTAzODckajQ1JGwwJGgw",
+      "description": "Fresh onions.",
+      "unit": "kg",
+      "stock": 30
+    },
+    {
+      "id": 46,
+      "name": "Garlic",
+      "category": "Crop",
+      "price": 90,
+      "image": "https://images.pexels.com/photos/928251/pexels-photo-928251.jpeg?_gl=1*1m5nsmm*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTA0MjkkajMkbDAkaDA.",
+      "description": "Aromatic garlic bulbs.",
+      "unit": "kg",
+      "stock": 12
+    },
+    {
+      "id": 47,
+      "name": "Mustard Seeds",
+      "category": "Seed",
+      "price": 70,
+      "image": "https://images.pexels.com/photos/3040873/pexels-photo-3040873.jpeg?_gl=1*1yucizf*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTA0NzYkajQwJGwwJGgw",
+      "description": "Flavorful mustard seeds.",
+      "unit": "packet",
+      "stock": 42
+    },
+    {
+      "id": 48,
+      "name": "Greenhouse Controller",
+      "category": "Technology",
+      "price": 3200,
+      "image": "https://images.pexels.com/photos/16905006/pexels-photo-16905006.jpeg?_gl=1*11q2jw5*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTA1MTkkajU5JGwwJGgw",
+      "description": "Automated greenhouse controller.",
+      "unit": "kit",
+      "stock": 22
+    },
+    {
+      "id": 49,
+      "name": "Beetroot",
+      "category": "Crop",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/4443482/pexels-photo-4443482.jpeg?_gl=1*1k2qpqp*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTA1NzAkajgkbDAkaDA.",
+      "description": "Fresh beetroot.",
+      "unit": "kg",
+      "stock": 18
+    },
+    {
+      "id": 50,
+      "name": "Turnip",
+      "category": "Crop",
+      "price": 55,
+      "image": "https://images.pexels.com/photos/16069702/pexels-photo-16069702.jpeg?_gl=1*sostit*_ga*MjA2NTYzNDYyLjE3NTEwODQzNTg.*_ga_8JE65Q40S6*czE3NTEwODQzNTgkbzEkZzEkdDE3NTEwODk3MTMkbzIkZzEkdDE3NTEwOTA2MDIkajQ2JGwwJGgw",
+      "description": "Organic turnips.",
+      "unit": "kg",
+      "stock": 32
+    },
+    {
+      "id": 51,
+      "name": "Basil Seeds",
+      "category": "Seeds",
+      "price": 85,
+      "image": "https://images.unsplash.com/photo-1554643071-5378cb40c9fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxiYXNpbCUyMHNlZWRzfGVufDB8fHx8MTc1MTA5OTg4OXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Aromatic basil seeds for herb gardens.",
+      "unit": "packet",
+      "stock": 28
+    },
+    {
+      "id": 52,
+      "name": "Coriander Seeds",
+      "category": "Seeds",
+      "price": 75,
+      "image": "https://images.unsplash.com/photo-1608797179072-4268dd68eff2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjb3JpYW5kZXIlMjBzZWVkc3xlbnwwfHx8fDE3NTEwOTk4OTB8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Fresh coriander seeds for cooking and planting.",
+      "unit": "packet",
+      "stock": 35
+    },
+    {
+      "id": 53,
+      "name": "Mint Seeds",
+      "category": "Seeds",
+      "price": 65,
+      "image": "https://images.unsplash.com/photo-1642255500170-2637b4e4cecd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxtaW50JTIwc2VlZHN8ZW58MHx8fHwxNzUxMDk5ODkxfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Refreshing mint seeds for tea and garnishing.",
+      "unit": "packet",
+      "stock": 42
+    },
+    {
+      "id": 54,
+      "name": "Parsley Seeds",
+      "category": "Seeds",
+      "price": 70,
+      "image": "https://images.unsplash.com/photo-1651995859061-a42d825267ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxwYXJzbGV5JTIwc2VlZHN8ZW58MHx8fHwxNzUxMDk5ODkxfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Fresh parsley seeds for culinary use.",
+      "unit": "packet",
+      "stock": 31
+    },
+    {
+      "id": 55,
+      "name": "Dill Seeds",
+      "category": "Seeds",
+      "price": 80,
+      "image": "https://images.unsplash.com/photo-1696731064590-7f2b98440dce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxkaWxsJTIwc2VlZHN8ZW58MHx8fHwxNzUxMDk5ODkyfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Aromatic dill seeds for pickling and seasoning.",
+      "unit": "packet",
+      "stock": 26
+    },
+    {
+      "id": 56,
+      "name": "Fennel Seeds",
+      "category": "Seeds",
+      "price": 90,
+      "image": "https://images.unsplash.com/photo-1701189975842-591ebd1e26a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxmZW5uZWwlMjBzZWVkc3xlbnwwfHx8fDE3NTEwOTk4OTN8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Sweet fennel seeds for digestive health.",
+      "unit": "packet",
+      "stock": 38
+    },
+    {
+      "id": 57,
+      "name": "Cumin Seeds",
+      "category": "Seeds",
+      "price": 95,
+      "image": "https://images.unsplash.com/photo-1601723897386-e5df0c749fb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjdW1pbiUyMHNlZWRzfGVufDB8fHx8MTc1MTA5OTg5NHww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Essential cumin seeds for Indian cuisine.",
+      "unit": "packet",
+      "stock": 44
+    },
+    {
+      "id": 58,
+      "name": "Fenugreek Seeds",
+      "category": "Seeds",
+      "price": 85,
+      "image": "https://images.unsplash.com/photo-1623667358338-d756856e74cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxmZW51Z3JlZWslMjBzZWVkc3xlbnwwfHx8fDE3NTEwOTk4OTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Nutritious fenugreek seeds for health benefits.",
+      "unit": "packet",
+      "stock": 29
+    },
+    {
+      "id": 59,
+      "name": "Cardamom Seeds",
+      "category": "Seeds",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1623667358338-d756856e74cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjYXJkYW1vbSUyMHNlZWRzfGVufDB8fHx8MTc1MTA5OTg5NXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Premium cardamom seeds for aromatic dishes.",
+      "unit": "packet",
+      "stock": 22
+    },
+    {
+      "id": 60,
+      "name": "Ajwain Seeds",
+      "category": "Seeds",
+      "price": 75,
+      "image": "https://images.unsplash.com/photo-1623667358338-d756856e74cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxhandhaW4lMjBzZWVkc3xlbnwwfHx8fDE3NTEwOTk4OTZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Traditional ajwain seeds for digestive health.",
+      "unit": "packet",
+      "stock": 33
+    },
+    {
+      "id": 61,
+      "name": "NPK Fertilizer (20-20-20)",
+      "category": "Fertilizers",
+      "price": 450,
+      "image": "https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxOUEslMjBmZXJ0aWxpemVyfGVufDB8fHx8MTc1MTA5OTg5N3ww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Balanced NPK fertilizer for all crops.",
+      "unit": "kg",
+      "stock": 25
+    },
+    {
+      "id": 62,
+      "name": "Urea Fertilizer",
+      "category": "Fertilizers",
+      "price": 380,
+      "image": "https://images.unsplash.com/photo-1704619560137-e5a1b4008795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx1cmVhJTIwZmVydGlsaXplcnxlbnwwfHx8fDE3NTEwOTk4OTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "High nitrogen urea for leafy growth.",
+      "unit": "kg",
+      "stock": 40
+    },
+    {
+      "id": 63,
+      "name": "Potash Fertilizer",
+      "category": "Fertilizers",
+      "price": 520,
+      "image": "https://images.unsplash.com/photo-1624806993335-5c8a05d85929?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxwb3Rhc2glMjBmZXJ0aWxpemVyfGVufDB8fHx8MTc1MTA5OTg5OXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Potassium-rich fertilizer for fruit development.",
+      "unit": "kg",
+      "stock": 18
+    },
+    {
+      "id": 64,
+      "name": "Bone Meal Fertilizer",
+      "category": "Fertilizers",
+      "price": 280,
+      "image": "https://images.unsplash.com/photo-1722044942164-9637e0452395?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxib25lJTIwbWVhbCUyMGZlcnRpbGl6ZXJ8ZW58MHx8fHwxNzUxMDk5OTAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Organic bone meal for phosphorus supply.",
+      "unit": "kg",
+      "stock": 32
+    },
+    {
+      "id": 65,
+      "name": "Fish Emulsion Fertilizer",
+      "category": "Fertilizers",
+      "price": 350,
+      "image": "https://images.unsplash.com/photo-1617908833148-6f81dc10d881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxmaXNoJTIwZW11bHNpb24lMjBmZXJ0aWxpemVyfGVufDB8fHx8MTc1MTA5OTkwMXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Natural fish emulsion for organic farming.",
+      "unit": "liter",
+      "stock": 15
+    },
+    {
+      "id": 66,
+      "name": "Seaweed Fertilizer",
+      "category": "Fertilizers",
+      "price": 420,
+      "image": "https://images.unsplash.com/photo-1715518934353-f5f1342a8b58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxzZWF3ZWVkJTIwZmVydGlsaXplcnxlbnwwfHx8fDE3NTEwOTk5MDF8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Rich seaweed extract for plant growth.",
+      "unit": "liter",
+      "stock": 28
+    },
+    {
+      "id": 67,
+      "name": "Vermicompost",
+      "category": "Fertilizers",
+      "price": 200,
+      "image": "https://images.unsplash.com/photo-1732565277370-874e0dc0aac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx2ZXJtaWNvbXBvc3R8ZW58MHx8fHwxNzUxMDk5OTAyfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Organic vermicompost for soil enrichment.",
+      "unit": "kg",
+      "stock": 45
+    },
+    {
+      "id": 68,
+      "name": "Cow Dung Manure",
+      "category": "Fertilizers",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1646658689247-9557b015d598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjb3clMjBkdW5nJTIwbWFudXJlfGVufDB8fHx8MTc1MTA5OTkwM3ww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Traditional cow dung for natural farming.",
+      "unit": "kg",
+      "stock": 50
+    },
+    {
+      "id": 69,
+      "name": "Neem Oil Spray",
+      "category": "Pesticides",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1632077517761-80a6998c5925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxuZWVtJTIwb2lsJTIwc3ByYXl8ZW58MHx8fHwxNzUxMDk5OTA0fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Natural neem oil for pest control.",
+      "unit": "liter",
+      "stock": 30
+    },
+    {
+      "id": 70,
+      "name": "Garlic Pesticide",
+      "category": "Pesticides",
+      "price": 160,
+      "image": "https://images.unsplash.com/photo-1604880285069-e535d08ecfd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxnYXJsaWMlMjBwZXN0aWNpZGV8ZW58MHx8fHwxNzUxMDk5OTA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Organic garlic-based pest repellent.",
+      "unit": "liter",
+      "stock": 25
+    },
+    {
+      "id": 71,
+      "name": "Chili Pesticide",
+      "category": "Pesticides",
+      "price": 140,
+      "image": "https://images.unsplash.com/photo-1700482323495-765a1b2e9a80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjaGlsaSUyMHBlc3RpY2lkZXxlbnwwfHx8fDE3NTEwOTk5MDZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Hot chili spray for insect control.",
+      "unit": "liter",
+      "stock": 35
+    },
+    {
+      "id": 72,
+      "name": "Bacillus Thuringiensis",
+      "category": "Pesticides",
+      "price": 220,
+      "image": "https://images.unsplash.com/photo-1614138375853-ab16e56a5232?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxiYWNpbGx1cyUyMHRodXJpbmdpZW5zaXN8ZW58MHx8fHwxNzUxMDk5OTA3fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Biological pesticide for caterpillars.",
+      "unit": "kg",
+      "stock": 20
+    },
+    {
+      "id": 73,
+      "name": "Diatomaceous Earth",
+      "category": "Pesticides",
+      "price": 190,
+      "image": "https://images.unsplash.com/photo-1706216453578-b118c70ea554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxkaWF0b21hY2VvdXMlMjBlYXJ0aHxlbnwwfHx8fDE3NTEwOTk5MDd8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Natural powder for crawling insects.",
+      "unit": "kg",
+      "stock": 28
+    },
+    {
+      "id": 74,
+      "name": "Pyrethrin Spray",
+      "category": "Pesticides",
+      "price": 200,
+      "image": "https://images.unsplash.com/photo-1635766054474-ebaba5355bd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxweXJldGhyaW4lMjBzcHJheXxlbnwwfHx8fDE3NTEwOTk5MDh8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Plant-based pyrethrin for broad pest control.",
+      "unit": "liter",
+      "stock": 22
+    },
+    {
+      "id": 75,
+      "name": "Smart Irrigation Controller",
+      "category": "Technologies",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1685475188388-2a266e6bd5c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGlycmlnYXRpb24lMjBjb250cm9sbGVyfGVufDB8fHx8MTc1MTA5OTkwOXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "AI-powered irrigation system controller.",
+      "unit": "piece",
+      "stock": 12
+    },
+    {
+      "id": 76,
+      "name": "Crop Monitoring Camera",
+      "category": "Technologies",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1559416956-5e9fff631ffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjcm9wJTIwbW9uaXRvcmluZyUyMGNhbWVyYXxlbnwwfHx8fDE3NTEwOTk5MTB8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "HD camera for remote crop monitoring.",
+      "unit": "piece",
+      "stock": 18
+    },
+    {
+      "id": 77,
+      "name": "Soil pH Meter",
+      "category": "Technologies",
+      "price": 1200,
+      "image": "https://images.unsplash.com/photo-1579717511944-a9a4b1724da9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxzb2lsJTIwcEglMjBtZXRlcnxlbnwwfHx8fDE3NTEwOTk5MTF8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Digital pH meter for soil testing.",
+      "unit": "piece",
+      "stock": 25
+    },
+    {
+      "id": 78,
+      "name": "Plant Disease Scanner",
+      "category": "Technologies",
+      "price": 4200,
+      "image": "https://images.unsplash.com/photo-1601287293804-9a87af20db9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxwbGFudCUyMGRpc2Vhc2UlMjBzY2FubmVyfGVufDB8fHx8MTc1MTA5OTkxMXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "AI scanner for early disease detection.",
+      "unit": "piece",
+      "stock": 8
+    },
+    {
+      "id": 79,
+      "name": "Automated Seeder",
+      "category": "Technologies",
+      "price": 5500,
+      "image": "https://images.unsplash.com/photo-1701318062852-2b5497686b8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxhdXRvbWF0ZWQlMjBzZWVkZXJ8ZW58MHx8fHwxNzUxMDk5OTEyfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Precision automated seeding machine.",
+      "unit": "piece",
+      "stock": 6
+    },
+    {
+      "id": 80,
+      "name": "Crop Yield Predictor",
+      "category": "Technologies",
+      "price": 3800,
+      "image": "https://images.unsplash.com/photo-1715804019254-5591e1da21b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxjcm9wJTIweWllbGQlMjBwcmVkaWN0b3J8ZW58MHx8fHwxNzUxMDk5OTEzfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "ML-based yield prediction system.",
+      "unit": "piece",
+      "stock": 10
+    },
+    {
+      "id": 81,
+      "name": "Smart Greenhouse Kit",
+      "category": "Technologies",
+      "price": 6500,
+      "image": "https://images.unsplash.com/photo-1658753145551-8f44e5811d21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxzbWFydCUyMGdyZWVuaG91c2UlMjBraXR8ZW58MHx8fHwxNzUxMDk5OTE0fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Complete smart greenhouse automation.",
+      "unit": "kit",
+      "stock": 5
+    },
+    {
+      "id": 82,
+      "name": "Precision Agriculture GPS",
+      "category": "Technologies",
+      "price": 4800,
+      "image": "https://images.unsplash.com/photo-1632173068638-f9f51ab5ddf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxwcmVjaXNpb24lMjBhZ3JpY3VsdHVyZSUyMEdQU3xlbnwwfHx8fDE3NTEwOTk5MTV8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "High-precision GPS for field mapping.",
+      "unit": "piece",
+      "stock": 15
+    },
+    {
+      "id": 83,
+      "name": "Garden Pruner",
+      "category": "Tools",
+      "price": 450,
+      "image": "https://images.unsplash.com/photo-1558969330-ce91b84b1348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBwcnVuZXJ8ZW58MHx8fHwxNzUxMDk5OTE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Professional garden pruning shears.",
+      "unit": "piece",
+      "stock": 30
+    },
+    {
+      "id": 84,
+      "name": "Weeding Tool",
+      "category": "Tools",
+      "price": 280,
+      "image": "https://images.unsplash.com/photo-1664404255965-21e63df0c2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx3ZWVkaW5nJTIwdG9vbHxlbnwwfHx8fDE3NTEwOTk5MTd8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Efficient weeding tool for gardens.",
+      "unit": "piece",
+      "stock": 35
+    },
+    {
+      "id": 85,
+      "name": "Garden Rake",
+      "category": "Tools",
+      "price": 320,
+      "image": "https://images.unsplash.com/photo-1667726146129-b3a2f6a01258?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjByYWtlfGVufDB8fHx8MTc1MTA5OTkxOHww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Sturdy garden rake for soil preparation.",
+      "unit": "piece",
+      "stock": 28
+    },
+    {
+      "id": 86,
+      "name": "Watering Can",
+      "category": "Tools",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1599277100479-3252d492a19a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx3YXRlcmluZyUyMGNhbnxlbnwwfHx8fDE3NTEwOTk5MTh8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Large capacity watering can.",
+      "unit": "piece",
+      "stock": 40
+    },
+    {
+      "id": 87,
+      "name": "Garden Fork",
+      "category": "Tools",
+      "price": 250,
+      "image": "https://images.unsplash.com/photo-1701937950115-554b98de22ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBmb3JrfGVufDB8fHx8MTc1MTA5OTkxOXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Heavy-duty garden fork for soil work.",
+      "unit": "piece",
+      "stock": 32
+    },
+    {
+      "id": 88,
+      "name": "Planting Dibber",
+      "category": "Tools",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1657049008544-e4fb5e78987f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxwbGFudGluZyUyMGRpYmJlcnxlbnwwfHx8fDE3NTEwOTk5MjB8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Precision planting tool for seeds.",
+      "unit": "piece",
+      "stock": 45
+    },
+    {
+      "id": 89,
+      "name": "Mini Tractor",
+      "category": "Equipment",
+      "price": 85000,
+      "image": "https://images.unsplash.com/photo-1680786228007-bd31ca0f3bb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxtaW5pJTIwdHJhY3RvcnxlbnwwfHx8fDE3NTEwOTk5MjF8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Compact mini tractor for small farms.",
+      "unit": "piece",
+      "stock": 3
+    },
+    {
+      "id": 90,
+      "name": "Harvester Machine",
+      "category": "Equipment",
+      "price": 120000,
+      "image": "https://images.unsplash.com/photo-1731361183731-21d1a6458316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxoYXJ2ZXN0ZXIlMjBtYWNoaW5lfGVufDB8fHx8MTc1MTA5OTkyMnww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Efficient grain harvester machine.",
+      "unit": "piece",
+      "stock": 2
+    },
+    {
+      "id": 91,
+      "name": "Thresher Machine",
+      "category": "Equipment",
+      "price": 45000,
+      "image": "https://images.unsplash.com/photo-1731361183731-21d1a6458316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx0aHJlc2hlciUyMG1hY2hpbmV8ZW58MHx8fHwxNzUxMDk5OTIzfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Grain threshing machine for processing.",
+      "unit": "piece",
+      "stock": 5
+    },
+    {
+      "id": 92,
+      "name": "Seed Drill",
+      "category": "Equipment",
+      "price": 28000,
+      "image": "https://images.unsplash.com/photo-1729420994535-f4b69ccd663b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxzZWVkJTIwZHJpbGx8ZW58MHx8fHwxNzUxMDk5OTIzfDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Precision seed drilling equipment.",
+      "unit": "piece",
+      "stock": 8
+    },
+    {
+      "id": 93,
+      "name": "Sprinkler System",
+      "category": "Irrigation",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1614014246262-3cc8b5db87bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxzcHJpbmtsZXIlMjBzeXN0ZW18ZW58MHx8fHwxNzUxMDk5OTI0fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Automated sprinkler irrigation system.",
+      "unit": "kit",
+      "stock": 20
+    },
+    {
+      "id": 94,
+      "name": "Water Pump",
+      "category": "Irrigation",
+      "price": 2200,
+      "image": "https://images.unsplash.com/photo-1696371269814-ae41fc67cf03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx3YXRlciUyMHB1bXB8ZW58MHx8fHwxNzUxMDk5OTI1fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "High-capacity water pump for irrigation.",
+      "unit": "piece",
+      "stock": 15
+    },
+    {
+      "id": 95,
+      "name": "Fogging System",
+      "category": "Irrigation",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1642083493067-57abe95bac2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxmb2dnaW5nJTIwc3lzdGVtfGVufDB8fHx8MTc1MTA5OTkyNnww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Greenhouse fogging system for humidity.",
+      "unit": "kit",
+      "stock": 12
+    },
+    {
+      "id": 96,
+      "name": "Water Storage Tank",
+      "category": "Irrigation",
+      "price": 2800,
+      "image": "https://images.unsplash.com/photo-1638294834907-d11608bc11d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHx3YXRlciUyMHN0b3JhZ2UlMjB0YW5rfGVufDB8fHx8MTc1MTA5OTkyN3ww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Large capacity water storage tank.",
+      "unit": "piece",
+      "stock": 18
+    },
+    {
+      "id": 97,
+      "name": "Organic Compost",
+      "category": "Organics",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1729368630046-8f0051467115?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwY29tcG9zdHxlbnwwfHx8fDE3NTEwOTk5Mjh8MA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Pure organic compost for soil health.",
+      "unit": "kg",
+      "stock": 50
+    },
+    {
+      "id": 98,
+      "name": "Biochar",
+      "category": "Organics",
+      "price": 220,
+      "image": "https://images.unsplash.com/photo-1551756639-30e1bcc092be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxiaW9jaGFyfGVufDB8fHx8MTc1MTA5OTkyOXww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Carbon-rich biochar for soil improvement.",
+      "unit": "kg",
+      "stock": 35
+    },
+    {
+      "id": 99,
+      "name": "Organic Mulch",
+      "category": "Organics",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1708449094139-dd5cd2dd61ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwbXVsY2h8ZW58MHx8fHwxNzUxMDk5OTI5fDA&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Natural mulch for moisture retention.",
+      "unit": "kg",
+      "stock": 40
+    },
+    {
+      "id": 100,
+      "name": "Mycorrhizal Fungi",
+      "category": "Organics",
+      "price": 280,
+      "image": "https://images.unsplash.com/photo-1626816398941-e4b9035d2f74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzAyNTZ8MHwxfHNlYXJjaHwxfHxteWNvcnJoaXphbCUyMGZ1bmdpfGVufDB8fHx8MTc1MTA5OTkzMHww&ixlib=rb-4.1.0&q=80&w=400",
+      "description": "Beneficial fungi for root health.",
+      "unit": "packet",
+      "stock": 25
+    }
+  ]
+}
