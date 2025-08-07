@@ -22,7 +22,6 @@ export default function Profile() {
     const localUser = JSON.parse(localStorage.getItem('user'));
     setUser(localUser);
     if (localUser && localUser.email) {
-      // Get user data from MongoDB backend
       fetch('http://localhost:5000/api/profile', {
         method: 'GET',
         headers: {
@@ -70,7 +69,6 @@ export default function Profile() {
       const data = await res.json();
       setSuccessMsg('Crop updated successfully!');
       setEditing(false);
-      // Update the backend user data
       setBackendUser(prev => ({ ...prev, crop: selectedCrop }));
     } catch (err) {
       setErrorMsg(err.message);

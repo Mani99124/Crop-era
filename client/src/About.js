@@ -21,7 +21,7 @@ const creators = [
     name: 'Karthik',
     role: 'Back End Developer',
     image: 'https://placehold.co/120x120?text=Karthik',
-    linkedin: 'https://linkedin.com/in/karthik',
+    linkedin: 'https://www.linkedin.com/in/kathroju-karthik',
     email: 'kathrojukarthik12@gmail.com',
     phone: '+91-8466055011',
   },
