@@ -60,7 +60,7 @@ export default function Home() {
         name: user?.displayName || user?.name || '',
         email: user?.email || '',
       });
-      fetch('http://localhost:5000/users')
+      fetch('https://crop-era.onrender.com/users')
         .then(res => res.json())
         .then(users => {
           const found = users.find(u => u.email === user.email);
