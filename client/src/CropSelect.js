@@ -35,7 +35,7 @@ export default function CropSelect() {
     setError('');
     try {
       // Update user's crop selection in MongoDB
-      const response = await fetch('http://localhost:5000/update-crop', {
+      const response = await fetch('https://crop-era.onrender.com/update-crop', {
 
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
